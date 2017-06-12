@@ -1,0 +1,189 @@
+/*
+wood brown: A89F68;
+army green: 41521F;
+*/
+
+*{
+	margin:0;
+	padding:0;
+}
+
+/* NAVBAR */	
+
+
+.logo{
+	padding-left: 130px;
+}
+a.navbar-brand.logo {
+    padding-left: 165px
+}
+
+.navbar-default {
+	background-color:transparent;
+	border-color:transparent;
+	background-image:none;
+	box-shadow:none;	
+	color:#fff;
+}
+a.navbar-brand.logo {
+    color: #fff;
+}
+.navbar-default .navbar-nav>li>a {
+   font-size:15px; 
+   color:#fff; 
+}
+
+/* FIRST SECTION */
+
+
+.first-section{
+	background-image: url(../img/portada.jpg);
+	height: 100vh;
+	background-size:cover;
+	background-position:center;
+}
+
+.sec-save{
+	color:white;
+	padding-top: 200px;
+
+
+}
+
+.btn-default {
+    color: #fff;
+    background-color: #41521F;
+    border-color: #41521F;
+}
+
+/* SECOND SECTION */
+
+.koala3{
+	width: 100%;
+	padding-top:130px;
+}
+
+.sec-foundation{
+	padding: 50px;
+}
+.sec-foundation h1, h3{
+	color:#A89F68;
+
+}
+.foundation-info{
+	padding: 30px;
+	margin-top:100px;
+
+
+}
+.see-more{
+	color:#A89F68;
+}
+/* THIRD SECTION */
+
+.third-section{
+	background-color: #A89F68;
+	padding: 100px;
+
+}
+.koala4{
+	border: 10px solid white;
+	width:400px;
+}
+.easy-help {
+	color:#fff;
+	font-size: 12px;
+}
+.sec-easy-help h2{
+	color:#41521F;
+	font-size: 21px;
+}
+
+/* FOURTH SECTION */
+
+#help-koalas{
+	background-image: url(../img/all.jpg);
+	height: 120vh;
+	background-size:cover;
+	background-position:center;
+	background-repeat: no-repeat;
+}
+
+.help-koalas-text{
+	padding-top:40px;
+	color:#fff;
+}
+.help-koalas-text h3{
+	color:#fff;
+}
+
+/* FIFTH SECTION */
+
+.fifth-section {
+	padding: 70px 0;
+	text-align: center;
+}
+
+
+.fifth-section i,h3,a{
+	color: #A89F68;
+}
+
+.how-help-list{
+	padding-top:50px;
+}
+
+.text-list p{
+	padding-top:20px;
+}
+
+/* SIXTH SECTION */
+
+.sixth-section{	
+	background-color:#A89F68;
+	padding-bottom: 100px;
+}
+
+.text-donate{
+	color:#41521F;
+	padding-bottom: 20px;
+	padding-top: 120px;
+}
+.sec-donate p{
+	font-size:12px;
+}
+.title-list{
+	font-size:12px;
+	font-weight: bold;
+	letter-spacing: 2px;
+}
+#price{
+	color:#fff;
+	font-weight: light;
+	font-size: 70px;
+}
+/* FINAL SECTION */
+
+#about{
+	background-color: #41521F;
+	padding: 80px 0;
+	
+}
+#about h4{
+	color:#A89F68;
+}
+
+.links-footer a,h5{
+	color:#A89F68;
+	text-decoration: none;
+
+}
+.links-footer{
+	list-style: none;
+	
+	padding-left:50px;
+}
+#about p,h6{
+	color:#fff;
+}
+

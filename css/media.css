@@ -1,0 +1,11 @@
+@media (min-width: 1px) and (max-width: 425px){
+	.seccionSave{
+		padding-top: 220px;
+		text-align:left;
+	
+	}
+
+	h1, p {
+		text-align:left;
+		
+}
